@@ -10,3 +10,7 @@ variable "image_id" {
 
     sensitive = true
 }
+
+variable "servers"{
+    
+}
